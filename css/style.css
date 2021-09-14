@@ -69,6 +69,7 @@ hr {
     width: 50%;
     text-align: left;
     margin: 2rem auto;
+    overflow: hidden;
 }
 
 .code-img {
@@ -77,3 +78,7 @@ hr {
     margin-right: 2rem;
 }
 
+.hobby-img {
+    width: 25%;
+    float: right;
+}
