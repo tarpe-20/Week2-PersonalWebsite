@@ -65,5 +65,15 @@ hr {
 }*/
 
 
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 2rem auto;
+}
 
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 2rem;
+}
 
